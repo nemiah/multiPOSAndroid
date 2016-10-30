@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Options">
+        <item>Seite aktualisieren</item>
+        <item>URL ändern</item>
+        <item>Ausrichtung</item>
+    </string-array>
+    <string-array name="Orientations">
+        <item>Landschaft</item>
+        <item>Landschaft kopfüber</item>
+        <item>Porträt</item>
+        <item>Porträt kopfüber</item>
+    </string-array>
+    <string name="app_name">multiPOS</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="error">Fehler</string>
+    <string name="madUri">Die eingegebene URL ist nicht gültig.</string>
+    <string name="ok">OK</string>
+    <string name="zxinglib_msg_default_status">Positionieren Sie den Barcode innerhalb des Rechteckes. </string>
+</resources>

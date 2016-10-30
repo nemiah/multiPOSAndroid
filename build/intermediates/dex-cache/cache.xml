@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nemiah/StudioProjects/multiPOSAndroid/app/libs/ePOS-Print.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="86d9f4d0293e70511f95ecbc2f3be9930cbd7164">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/2/ePOS-Print_b517cae4a3e733066e73441ccf40cdf5f81526df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nemiah/StudioProjects/multiPOSAndroid/app/libs/core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b2fc078692d1736ed87b3f4a8d94469d91cb816f">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/2/core_a68683ca09b8a48b21256f96afbc0984ce05946d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dcc67e303f1c503dc3fb640ea34507acf50a1aae">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f1a8fdb755ceb06d9b5b3c15dbb7b13d3c52b72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nemiah/Programme/AndroidSDK/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_1f2b4ce15f2e629653c1c81a6f3def0bd70724c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fe3319f55588f9fa24290d599f1bf44a38cb0147">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f145d8c5c517908f2b17b0498a146d6cb491f6cc/classes.dex" />
+    </item>
+
+</items>
