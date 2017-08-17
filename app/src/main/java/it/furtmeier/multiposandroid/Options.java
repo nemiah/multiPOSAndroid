@@ -6,8 +6,9 @@ import android.content.SharedPreferences.Editor;
 import android.content.pm.ActivityInfo;
 
 public class Options {
-	public static String url = "http://192.168.7.77/ubiquitous/CustomerPage/?D=multiPOS/Kassen&I=1&T=";
-	public static int orientation = ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE;
+	public static String url = //"https://192.168.7.77/ubiquitous/CustomerPage/?D=multiPOS/Kassen&I=1&T=";
+	"https://cloud9.furtmeier.it/ubiquitous/CustomerPage/?D=multiPOS/Kassen&I=1&T=&cloud=Qhixge";
+	public static int orientation = ActivityInfo.SCREEN_ORIENTATION_PORTRAIT;
 	
 	public static void load(MultiPOSAndroid openWaWiAndroid) {
 		SharedPreferences pref = openWaWiAndroid.getPreferences(Activity.MODE_PRIVATE);

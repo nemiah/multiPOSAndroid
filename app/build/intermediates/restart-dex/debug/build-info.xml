@@ -1,37 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64,x86"
-    api-level="21"
-    density="xhdpi"
-    format="8"
-    plugin-version="2.2.2"
-    timestamp="35531217460946"
+    abi="armeabi-v7a,armeabi"
+    api-level="25"
+    build-mode="COLD"
+    density="xxhdpi"
+    format="10"
+    plugin-version="2.3.2"
+    timestamp="1502975680893"
     token="6283170085664986597"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="34" />
+        duration="42" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="24" />
+        duration="7" />
     <task
         name="verifier"
         duration="1" />
 
     <artifact
-        location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
 
     <build
-        timestamp="35531217460946"
+        build-mode="FULL"
+        timestamp="1502973031168"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
+            location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
             location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/outputs/apk/app-debug.apk"
-            type="MAIN" />
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1502974261276"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1502975680893"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>

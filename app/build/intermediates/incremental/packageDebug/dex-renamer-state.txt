@@ -1,7 +1,7 @@
-#Sun Oct 30 20:29:03 CET 2016
-base.0=/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f145d8c5c517908f2b17b0498a146d6cb491f6cc
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f1a8fdb755ceb06d9b5b3c15dbb7b13d3c52b72/classes.dex
-base.1=/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f1a8fdb755ceb06d9b5b3c15dbb7b13d3c52b72
-file.0=/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f145d8c5c517908f2b17b0498a146d6cb491f6cc/classes.dex
+#Thu Aug 17 14:51:02 CEST 2017
+base.0=/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f145d8c5c517908f2b17b0498a146d6cb491f6cc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f1a8fdb755ceb06d9b5b3c15dbb7b13d3c52b72/classes.dex
+base.1=/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f1a8fdb755ceb06d9b5b3c15dbb7b13d3c52b72
+file.0=/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f145d8c5c517908f2b17b0498a146d6cb491f6cc/classes.dex

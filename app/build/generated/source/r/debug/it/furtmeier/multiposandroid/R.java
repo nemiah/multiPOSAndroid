@@ -9,23 +9,46 @@ package it.furtmeier.multiposandroid;
 
 public final class R {
     public static final class array {
-        public static final int Options=0x7f040000;
-        public static final int Orientations=0x7f040001;
+        public static final int Options=0x7f050000;
+        public static final int Orientations=0x7f050001;
     }
     public static final class attr {
     }
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
     }
+    public static final class mipmap {
+        public static final int ic_launcher=0x7f030000;
+    }
     public static final class raw {
-        public static final int zxinglib_beep=0x7f030000;
+        public static final int zxinglib_beep=0x7f040000;
     }
     public static final class string {
-        public static final int app_name=0x7f050000;
-        public static final int cancel=0x7f050001;
-        public static final int error=0x7f050002;
-        public static final int madUri=0x7f050003;
-        public static final int ok=0x7f050004;
-        public static final int zxinglib_msg_default_status=0x7f050005;
+        public static final int app_name=0x7f060000;
+        public static final int cancel=0x7f060001;
+        public static final int error=0x7f060002;
+        public static final int handlingmsg_err_autocutter=0x7f060006;
+        public static final int handlingmsg_err_battery=0x7f060007;
+        public static final int handlingmsg_err_battery_real_end=0x7f060008;
+        public static final int handlingmsg_err_cover_open=0x7f060009;
+        public static final int handlingmsg_err_head=0x7f06000a;
+        public static final int handlingmsg_err_motor=0x7f06000b;
+        public static final int handlingmsg_err_need_recover=0x7f06000c;
+        public static final int handlingmsg_err_no_response=0x7f06000d;
+        public static final int handlingmsg_err_offline=0x7f06000e;
+        public static final int handlingmsg_err_overheat=0x7f06000f;
+        public static final int handlingmsg_err_paper_feed=0x7f060010;
+        public static final int handlingmsg_err_receipt_end=0x7f060011;
+        public static final int handlingmsg_err_unrecover=0x7f060012;
+        public static final int handlingmsg_err_wrong_paper=0x7f060013;
+        public static final int handlingmsg_warn_battery_near_end=0x7f060014;
+        public static final int handlingmsg_warn_receipt_near_end=0x7f060015;
+        public static final int madUri=0x7f060003;
+        public static final int ok=0x7f060004;
+        public static final int title_err_code=0x7f060016;
+        public static final int title_err_method=0x7f060017;
+        public static final int title_msg_description=0x7f060018;
+        public static final int title_msg_result=0x7f060019;
+        public static final int zxinglib_msg_default_status=0x7f060005;
     }
 }

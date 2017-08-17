@@ -12,15 +12,7 @@
                     "endOffset": 200
                 },
                 "from": {
-                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 104,
-                        "endLine": 8,
-                        "endColumn": 19,
-                        "endOffset": 249
-                    }
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -33,15 +25,7 @@
                     "endOffset": 397
                 },
                 "from": {
-                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 259,
-                        "endLine": 15,
-                        "endColumn": 19,
-                        "endOffset": 451
-                    }
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -53,14 +37,7 @@
                     "endOffset": 443
                 },
                 "from": {
-                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 56,
-                        "endColumn": 45,
-                        "endOffset": 97
-                    }
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -72,14 +49,7 @@
                     "endOffset": 485
                 },
                 "from": {
-                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 492,
-                        "endColumn": 41,
-                        "endOffset": 529
-                    }
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -91,14 +61,7 @@
                     "endOffset": 525
                 },
                 "from": {
-                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 534,
-                        "endColumn": 39,
-                        "endOffset": 569
-                    }
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -106,17 +69,17 @@
                     "startLine": 16,
                     "startColumn": 4,
                     "startOffset": 530,
-                    "endColumn": 64,
-                    "endOffset": 590
+                    "endColumn": 235,
+                    "endOffset": 761
                 },
                 "from": {
                     "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 574,
-                        "endColumn": 64,
-                        "endOffset": 634
+                        "startOffset": 1457,
+                        "endColumn": 235,
+                        "endOffset": 1688
                     }
                 }
             },
@@ -124,18 +87,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 595,
-                    "endColumn": 33,
-                    "endOffset": 624
+                    "startOffset": 766,
+                    "endColumn": 80,
+                    "endOffset": 842
                 },
                 "from": {
                     "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 39,
                         "startColumn": 4,
-                        "startOffset": 458,
-                        "endColumn": 33,
-                        "endOffset": 487
+                        "startOffset": 2285,
+                        "endColumn": 80,
+                        "endOffset": 2361
                     }
                 }
             },
@@ -143,19 +106,378 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 629,
-                    "endColumn": 116,
-                    "endOffset": 741
+                    "startOffset": 847,
+                    "endColumn": 148,
+                    "endOffset": 991
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2455,
+                        "endColumn": 148,
+                        "endOffset": 2599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 996,
+                    "endColumn": 87,
+                    "endOffset": 1079
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1193,
+                        "endColumn": 87,
+                        "endOffset": 1276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1084,
+                    "endColumn": 80,
+                    "endOffset": 1160
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2117,
+                        "endColumn": 80,
+                        "endOffset": 2193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1165,
+                    "endColumn": 86,
+                    "endOffset": 1247
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2198,
+                        "endColumn": 86,
+                        "endOffset": 2280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1252,
+                    "endColumn": 139,
+                    "endOffset": 1387
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1693,
+                        "endColumn": 139,
+                        "endOffset": 1828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1392,
+                    "endColumn": 147,
+                    "endOffset": 1535
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1045,
+                        "endColumn": 147,
+                        "endOffset": 1188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1540,
+                    "endColumn": 73,
+                    "endOffset": 1609
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2604,
+                        "endColumn": 73,
+                        "endOffset": 2673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1614,
+                    "endColumn": 109,
+                    "endOffset": 1719
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2007,
+                        "endColumn": 109,
+                        "endOffset": 2112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1724,
+                    "endColumn": 92,
+                    "endOffset": 1812
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1364,
+                        "endColumn": 92,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1817,
+                    "endColumn": 82,
+                    "endOffset": 1895
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1281,
+                        "endColumn": 82,
+                        "endOffset": 1359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1900,
+                    "endColumn": 173,
+                    "endOffset": 2069
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1833,
+                        "endColumn": 173,
+                        "endOffset": 2002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2074,
+                    "endColumn": 88,
+                    "endOffset": 2158
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2366,
+                        "endColumn": 88,
+                        "endOffset": 2450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2163,
+                    "endColumn": 96,
+                    "endOffset": 2255
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 948,
+                        "endColumn": 96,
+                        "endOffset": 1040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2260,
+                    "endColumn": 89,
+                    "endOffset": 2345
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 858,
+                        "endColumn": 89,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2350,
+                    "endColumn": 64,
+                    "endOffset": 2410
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2415,
+                    "endColumn": 33,
+                    "endOffset": 2444
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2449,
+                    "endColumn": 53,
+                    "endOffset": 2498
                 },
                 "from": {
                     "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 640,
-                        "endColumn": 116,
-                        "endOffset": 752
+                        "startOffset": 637,
+                        "endColumn": 53,
+                        "endOffset": 686
                     }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2503,
+                    "endColumn": 51,
+                    "endOffset": 2550
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 51,
+                        "endOffset": 738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2555,
+                    "endColumn": 61,
+                    "endOffset": 2612
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 61,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2617,
+                    "endColumn": 51,
+                    "endOffset": 2664
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 743,
+                        "endColumn": 51,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2669,
+                    "endColumn": 116,
+                    "endOffset": 2781
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/res/values/strings.xml"
                 }
             }
         ]

@@ -45,7 +45,7 @@ public class Menu {
 	    builder.setTitle(title)
 	           .setItems(R.array.Orientations, new DialogInterface.OnClickListener() {
 	               public void onClick(DialogInterface dialog, int which) {
-	            	   int newValue = 0;
+	            	   int newValue = ActivityInfo.SCREEN_ORIENTATION_UNSPECIFIED;
 	            	   if(which == 0)
 	            		   newValue = ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE;
 	            	   if(which == 1)
