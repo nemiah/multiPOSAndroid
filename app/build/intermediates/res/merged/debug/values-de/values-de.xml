@@ -33,11 +33,36 @@
     <string name="app_name">multiPOS</string>
     <string name="cancel">Abbrechen</string>
     <string name="error">Fehler</string>
+    <string name="handlingmsg_err_autocutter">Bitte entfernen Sie feststeckendes Papier und schließend Sie den Rollendeckel. Schalten Sie den Drucker anschließend aus und wieder ein.</string>
+    <string name="handlingmsg_err_battery">Die Batterie des Druckers ist heiß!</string>
+    <string name="handlingmsg_err_battery_real_end">Bitte verbinden Sie den Drucker mit dem Strom oder wechslen Sie die Batterie, sie ist fast leer.</string>
+    <string name="handlingmsg_err_cover_open">Bitte schließen Sie den Rollendecke.</string>
+    <string name="handlingmsg_err_head">Der Druckkopf des Druckers ist heiß!</string>
+    <string name="handlingmsg_err_motor">Der Motor des Druckers ist heiß!</string>
+    <string name="handlingmsg_err_need_recover">Wenn der Drucker danach nicht wieder funktioniert, schalten Sie ihn bitte aus und wieder ein.</string>
+    <string name="handlingmsg_err_no_response">Bitte prüfen Sie die Verbindung des Druckers und des Terminals, die Verbindung ist abgebrochen.</string>
+    <string name="handlingmsg_err_offline">Der Drucker ist offline.</string>
+    <string name="handlingmsg_err_overheat">Bitte warten Sie, bis die Fehler-LED des Druckers aus ist.</string>
+    <string name="handlingmsg_err_paper_feed">Bitte lassen Sie den Papier-Vorschub-Knopf los.</string>
+    <string name="handlingmsg_err_receipt_end">Bitte prüfen Sie die Papierrolle.</string>
+    <string name="handlingmsg_err_unrecover">Bitte schalten Sie den Drucker aus und wieder ein. Wenn das Problem danach noch besteht, is der Drocker möglicherweise defekt.</string>
+    <string name="handlingmsg_err_wrong_paper">Bitte legen Sie das korrekte Papier ein.</string>
+    <string name="handlingmsg_warn_battery_near_end">Wenig Batterie.</string>
+    <string name="handlingmsg_warn_receipt_near_end">Die Papierrolle ist fast zu Ende.</string>
     <string name="madUri">Die eingegebene URL ist nicht gültig.</string>
     <string name="ok">OK</string>
+    <string name="pref_default_server_cloud">demo</string>
+    <string name="pref_default_server_kasse">1</string>
+    <string name="pref_default_server_url">https://cloud.furtmeier.it</string>
     <string name="pref_header_general">Server</string>
+    <string name="pref_title_server_cloud">Cloud-Zugang</string>
+    <string name="pref_title_server_kasse">Kasse</string>
+    <string name="pref_title_server_url">Server-Adresse</string>
     <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="title_activity_settings">Einstellungen</string>
-    <string name="zxinglib_msg_default_status">Positionieren Sie den Barcode innerhalb des Rechteckes. </string>
+    <string name="title_err_code">Fehlernummer</string>
+    <string name="title_err_method">Methode</string>
+    <string name="title_msg_description">Beschreibung</string>
+    <string name="title_msg_result">Ergebnis</string>
 </resources>
