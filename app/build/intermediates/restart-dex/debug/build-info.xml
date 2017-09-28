@@ -6,19 +6,19 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1502975680893"
+    timestamp="1506605987685"
     token="6283170085664986597"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="42" />
+        duration="40" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="7" />
+        duration="3" />
     <task
         name="verifier"
         duration="1" />
@@ -29,11 +29,8 @@
 
     <build
         build-mode="FULL"
-        timestamp="1502973031168"
+        timestamp="1506600237316"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
         <artifact
             location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
@@ -59,6 +56,9 @@
             location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
+            location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
             location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
@@ -70,15 +70,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1502974261276"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1502975680893"
+        timestamp="1506605987685"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/split-apk/debug/slices/slice_5.apk"

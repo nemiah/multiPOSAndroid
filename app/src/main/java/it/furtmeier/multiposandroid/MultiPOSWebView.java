@@ -12,13 +12,13 @@ import android.webkit.WebView;
 @SuppressLint("SetJavaScriptEnabled")
 public class MultiPOSWebView extends WebView {
 	
-	public MultiPOSWebView(MultiPOSAndroid multiPOSAndroid) {
+	public MultiPOSWebView(ActivityMain multiPOSAndroid) {
 		super(multiPOSAndroid);
 		
 		Log.d("multiPOSWebView", "Started");
 		
 		final MultiPOSWebView view = this;
-		final MultiPOSAndroid activity = multiPOSAndroid;
+		final ActivityMain activity = multiPOSAndroid;
 		
 		setKeepScreenOn(true);
 		setWebViewClient(new MultiPOSViewClient());

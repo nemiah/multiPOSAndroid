@@ -1,6 +1,7 @@
 package it.furtmeier.multiposandroid;
 
 import android.content.Context;
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.util.Log;
@@ -28,9 +29,14 @@ public class JavaScriptHook implements ReceiveListener {
 	private Context mContext = null;
 	//private EditText mEditTarget = null;
 	private Printer  mPrinter = null;
-	private MultiPOSAndroid multiPOSAndroid;
-	
-	public JavaScriptHook(MultiPOSAndroid multiPOSAndroid) {
+	private ActivityMain multiPOSAndroid;
+
+	@JavascriptInterface
+	public void showSettings(){
+		mContext.startActivity(new Intent(mContext, ActivitySettings.class));
+	}
+
+	public JavaScriptHook(ActivityMain multiPOSAndroid) {
 		this.multiPOSAndroid = multiPOSAndroid;
 		mContext = multiPOSAndroid;
 	}

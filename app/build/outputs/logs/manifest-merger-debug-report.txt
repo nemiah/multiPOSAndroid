@@ -1,59 +1,101 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:1:1-29:12
+ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:2:1-45:12
 	package
-		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:2:5-43
+		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:3:11-49
 		INJECTED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml
 		INJECTED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:4:5-30
+		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:5:11-36
 		INJECTED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml
 		INJECTED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:3:5-28
+		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:4:11-34
 		INJECTED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml
 		INJECTED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:6:5-66
+ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:7:5-66
 	android:name
-		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:7:22-64
 application
-ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:20:5-27:16
-MERGED from [com.android.support:support-v4:23.4.0] /home/nemiah/.android/build-cache/e71360028054419e1955df87af3be4ce31a80c90/output/AndroidManifest.xml:22:5-20
+ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:23:5-43:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/nemiah/.android/build-cache/2fa7a9bb33c2ec27649d58b361a0534ff8d70a8c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/nemiah/.android/build-cache/bfe360743a13143eb286b4fd9d0ecfa135b86d24/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/nemiah/.android/build-cache/060186899d83557e500241c3416f92f25d7f59a2/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/nemiah/.android/build-cache/49ef7e0213a55d3584cfb1e86c90314f930d6b96/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/nemiah/.android/build-cache/cc981a90520ea27e7a776cdccd7fd8d3689086b0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/nemiah/.android/build-cache/ce131000283f5489761d72a5cabda6662cd547d9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/nemiah/.android/build-cache/a894dde73ad7cb0b159dc28a02c07196f1df5fde/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/nemiah/.android/build-cache/d3ba5199258be45657e1b117b77192894d7c8f21/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/nemiah/.android/build-cache/1b75203805311505dd79e5119df2fc8495ed6cde/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/nemiah/.android/build-cache/3a81a6a991aaef26313d03fe3b653a661c0327b1/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:20:80-112
+		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:26:9-41
 	android:allowBackup
-		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:20:18-44
+		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:24:9-35
 	android:icon
-		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:20:45-79
-activity#it.furtmeier.multiposandroid.MultiPOSAndroid
-ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:21:9-26:20
+		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:25:9-43
+	android:theme
+		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:27:9-40
+activity#it.furtmeier.multiposandroid.ActivityMain
+ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:28:9-38:20
 	android:label
-		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:21:79-111
+		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:32:13-45
 	android:configChanges
-		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:21:112-220
+		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:31:13-121
 	android:alwaysRetainTaskState
-		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:21:221-257
+		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:30:13-49
 	android:name
-		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:21:19-78
+		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:29:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:22:13-25:29
+ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:33:13-37:29
 action#android.intent.action.MAIN
-ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:23:17-69
+ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:34:17-68
 	android:name
-		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:23:25-66
+		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:36:17-76
 	android:name
-		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:36:27-74
+activity#it.furtmeier.multiposandroid.ActivitySettings
+ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:39:9-42:20
+	android:label
+		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:41:13-60
+	android:name
+		ADDED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml:40:13-45
 uses-sdk
 INJECTED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v4:23.4.0] /home/nemiah/.android/build-cache/e71360028054419e1955df87af3be4ce31a80c90/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/nemiah/.android/build-cache/2fa7a9bb33c2ec27649d58b361a0534ff8d70a8c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/nemiah/.android/build-cache/bfe360743a13143eb286b4fd9d0ecfa135b86d24/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/nemiah/.android/build-cache/060186899d83557e500241c3416f92f25d7f59a2/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/nemiah/.android/build-cache/49ef7e0213a55d3584cfb1e86c90314f930d6b96/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.3.1] /home/nemiah/.android/build-cache/cc981a90520ea27e7a776cdccd7fd8d3689086b0/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/nemiah/.android/build-cache/ce131000283f5489761d72a5cabda6662cd547d9/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/nemiah/.android/build-cache/a894dde73ad7cb0b159dc28a02c07196f1df5fde/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/nemiah/.android/build-cache/d3ba5199258be45657e1b117b77192894d7c8f21/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/nemiah/.android/build-cache/1b75203805311505dd79e5119df2fc8495ed6cde/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/nemiah/.android/build-cache/3a81a6a991aaef26313d03fe3b653a661c0327b1/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/nemiah/.android/build-cache/2fa7a9bb33c2ec27649d58b361a0534ff8d70a8c/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml
 		INJECTED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml
 		INJECTED from /home/nemiah/StudioProjects/multiPOSAndroid/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/nemiah/.android/build-cache/2fa7a9bb33c2ec27649d58b361a0534ff8d70a8c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/nemiah/.android/build-cache/bfe360743a13143eb286b4fd9d0ecfa135b86d24/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/nemiah/.android/build-cache/060186899d83557e500241c3416f92f25d7f59a2/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/nemiah/.android/build-cache/cc981a90520ea27e7a776cdccd7fd8d3689086b0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/nemiah/.android/build-cache/ce131000283f5489761d72a5cabda6662cd547d9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/nemiah/.android/build-cache/a894dde73ad7cb0b159dc28a02c07196f1df5fde/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/nemiah/.android/build-cache/d3ba5199258be45657e1b117b77192894d7c8f21/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/nemiah/.android/build-cache/1b75203805311505dd79e5119df2fc8495ed6cde/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/nemiah/.android/build-cache/3a81a6a991aaef26313d03fe3b653a661c0327b1/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/nemiah/.android/build-cache/2fa7a9bb33c2ec27649d58b361a0534ff8d70a8c/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/nemiah/.android/build-cache/2fa7a9bb33c2ec27649d58b361a0534ff8d70a8c/output/AndroidManifest.xml:26:9-47
