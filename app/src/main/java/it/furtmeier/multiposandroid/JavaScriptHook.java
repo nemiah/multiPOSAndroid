@@ -122,13 +122,13 @@ public class JavaScriptHook implements ReceiveListener {
 	}
 
 	private boolean printData(JSONObject JSON) throws JSONException {
-		if (mPrinter == null) {
+		if (mPrinter == null)
 			return false;
-		}
 
-		if (!connectPrinter(JSON.getString("printer"))) {
+
+		if (!connectPrinter(JSON.getString("printer")))
 			return false;
-		}
+
 
 		PrinterStatusInfo status = mPrinter.getStatus();
 
@@ -166,18 +166,14 @@ public class JavaScriptHook implements ReceiveListener {
 		if (mPrinter == null)
 			return false;
 
-		StringBuilder textData = new StringBuilder();
 		try {
-
-
-			/*if(true)
-				throw new Exception("BUUH");*/
 
 			//mPrinter.addFeedLine(1);
 			mPrinter.addTextAlign(Printer.ALIGN_CENTER);
 
 			String logopath = JSON.getString("logo");
-			if(logopath != "") {
+			Log.d("multiPOS", "LOGOPATH: "+logopath);
+			if(logopath.length() > 0) {
 				File file = new File(multiPOSAndroid.getFilesDir(), "bonlogo.png");
 				downloadFile(logopath, file);
 
@@ -195,7 +191,7 @@ public class JavaScriptHook implements ReceiveListener {
 
 			String oben = JSON.getString("oben");
 			if(oben != "")
-				textData.append(oben+"\n");
+				mPrinter.addText(oben+"\n");
 
 			JSONArray positionen = JSON.getJSONArray("positionen");
 			for (int i = 0; i < positionen.length(); i++) {
@@ -203,10 +199,23 @@ public class JavaScriptHook implements ReceiveListener {
 					JSONObject oneObject = positionen.getJSONObject(i);
 
 					String text = oneObject.getString("text");
-					String format = oneObject.getString("format");
-					Log.d("multiPOSWebView", "Print: text: "+text+" format: "+format);
+					String formatText = oneObject.getString("format");
+					JSONObject format = oneObject.getJSONObject("format");
+					Log.d("multiPOSWebView", "Print: text: "+text+" format: "+formatText);
 
-					textData.append(text+"\n");
+					switch (format.getString("method")){
+						case "TextSize":
+							JSONArray args = format.getJSONArray("args");
+
+							mPrinter.addTextSize(args.getInt(0), args.getInt(1));
+							mPrinter.addText(text+"\n");
+							mPrinter.addTextSize(1, 1);
+							break;
+
+						default:
+							mPrinter.addText(text+"\n");
+					}
+
 
 				} catch (JSONException e) {
 					// Oops
@@ -216,12 +225,12 @@ public class JavaScriptHook implements ReceiveListener {
 
 			String unten = JSON.getString("unten");
 			if(unten != "")
-				textData.append(unten+"\n");
+				mPrinter.addText(unten+"\n");
 
-			mPrinter.addText(textData.toString());
+			//mPrinter.addText(textData.toString());
 			mPrinter.addFeedLine(1);
 
-			textData.delete(0, textData.length());
+			//textData.delete(0, textData.length());
 			mPrinter.addCut(Printer.CUT_FEED);
 
 		}
@@ -230,7 +239,7 @@ public class JavaScriptHook implements ReceiveListener {
 			return false;
 		}
 
-		textData = null;
+		//textData = null;
 
 		return true;
 	}
