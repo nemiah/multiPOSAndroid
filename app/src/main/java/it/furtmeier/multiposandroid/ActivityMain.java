@@ -35,7 +35,7 @@ public class ActivityMain extends Activity {
 
 		webView = new MultiPOSWebView(this);
 		setContentView(webView);
-
+		webView.setWebViewClient(new MultiPOSViewClient());
 		setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 		refreshWebView();
 	}

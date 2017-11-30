@@ -21,7 +21,7 @@ public class MultiPOSWebView extends WebView {
 		final ActivityMain activity = multiPOSAndroid;
 		
 		setKeepScreenOn(true);
-		setWebViewClient(new MultiPOSViewClient());
+
 		WebSettings webSettings = getSettings();
 		webSettings.setJavaScriptEnabled(true);
 		webSettings.setDomStorageEnabled(true);

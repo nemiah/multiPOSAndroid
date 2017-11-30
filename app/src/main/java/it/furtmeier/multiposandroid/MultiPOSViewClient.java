@@ -18,13 +18,18 @@ class MultiPOSViewClient extends WebViewClient {
     }
 
     @SuppressWarnings("deprecation")
-    @Override
+    /*@Override
     public boolean shouldOverrideUrlLoading(WebView view, String url) {
         final Uri uri = Uri.parse(url);
         return handleUri(uri);
+    }*/
+    @Override
+    public boolean shouldOverrideUrlLoading(WebView view, String url) {
+        view.loadUrl(url);
+        return true;
     }
 
-    @TargetApi(Build.VERSION_CODES.N)
+    /*@TargetApi(Build.VERSION_CODES.N)
     @Override
     public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest request) {
         final Uri uri = request.getUrl();
@@ -38,5 +43,5 @@ class MultiPOSViewClient extends WebViewClient {
         ActivityMain.instance.startActivity(intent);
         return true;
 
-    }
+    }*/
 }
