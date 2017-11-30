@@ -54,5 +54,7 @@
     <string name="pref_title_server_url">Server-Address</string>
     <string name="pref_title_server_cloud">Cloud-Account</string>
     <string name="pref_title_server_kasse">Kasse</string>
+    <string name="pref_header_misc">Miscellaneous</string>
+    <string name="reload">Reload</string>
 
 </resources>

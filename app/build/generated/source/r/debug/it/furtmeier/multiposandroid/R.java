@@ -2274,20 +2274,21 @@ containing a value of this type.
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020050;
         public static final int abc_textfield_search_material=0x7f020051;
         public static final int abc_vector_test=0x7f020052;
-        public static final int ic_launcher=0x7f020053;
-        public static final int ic_sync_black_24dp=0x7f020054;
-        public static final int notification_action_background=0x7f020055;
-        public static final int notification_bg=0x7f020056;
-        public static final int notification_bg_low=0x7f020057;
-        public static final int notification_bg_low_normal=0x7f020058;
-        public static final int notification_bg_low_pressed=0x7f020059;
-        public static final int notification_bg_normal=0x7f02005a;
-        public static final int notification_bg_normal_pressed=0x7f02005b;
-        public static final int notification_icon_background=0x7f02005c;
-        public static final int notification_template_icon_bg=0x7f02005f;
-        public static final int notification_template_icon_low_bg=0x7f020060;
-        public static final int notification_tile_bg=0x7f02005d;
-        public static final int notify_panel_notification_icon_bg=0x7f02005e;
+        public static final int ic_info_black_24dp=0x7f020053;
+        public static final int ic_launcher=0x7f020054;
+        public static final int ic_sync_black_24dp=0x7f020055;
+        public static final int notification_action_background=0x7f020056;
+        public static final int notification_bg=0x7f020057;
+        public static final int notification_bg_low=0x7f020058;
+        public static final int notification_bg_low_normal=0x7f020059;
+        public static final int notification_bg_low_pressed=0x7f02005a;
+        public static final int notification_bg_normal=0x7f02005b;
+        public static final int notification_bg_normal_pressed=0x7f02005c;
+        public static final int notification_icon_background=0x7f02005d;
+        public static final int notification_template_icon_bg=0x7f020060;
+        public static final int notification_template_icon_low_bg=0x7f020061;
+        public static final int notification_tile_bg=0x7f02005e;
+        public static final int notify_panel_notification_icon_bg=0x7f02005f;
     }
     public static final class id {
         public static final int action0=0x7f0e0061;
@@ -2479,18 +2480,18 @@ containing a value of this type.
         public static final int abc_activitychooserview_choose_application=0x7f080007;
         public static final int abc_capital_off=0x7f080008;
         public static final int abc_capital_on=0x7f080009;
-        public static final int abc_font_family_body_1_material=0x7f080036;
-        public static final int abc_font_family_body_2_material=0x7f080037;
-        public static final int abc_font_family_button_material=0x7f080038;
-        public static final int abc_font_family_caption_material=0x7f080039;
-        public static final int abc_font_family_display_1_material=0x7f08003a;
-        public static final int abc_font_family_display_2_material=0x7f08003b;
-        public static final int abc_font_family_display_3_material=0x7f08003c;
-        public static final int abc_font_family_display_4_material=0x7f08003d;
-        public static final int abc_font_family_headline_material=0x7f08003e;
-        public static final int abc_font_family_menu_material=0x7f08003f;
-        public static final int abc_font_family_subhead_material=0x7f080040;
-        public static final int abc_font_family_title_material=0x7f080041;
+        public static final int abc_font_family_body_1_material=0x7f080038;
+        public static final int abc_font_family_body_2_material=0x7f080039;
+        public static final int abc_font_family_button_material=0x7f08003a;
+        public static final int abc_font_family_caption_material=0x7f08003b;
+        public static final int abc_font_family_display_1_material=0x7f08003c;
+        public static final int abc_font_family_display_2_material=0x7f08003d;
+        public static final int abc_font_family_display_3_material=0x7f08003e;
+        public static final int abc_font_family_display_4_material=0x7f08003f;
+        public static final int abc_font_family_headline_material=0x7f080040;
+        public static final int abc_font_family_menu_material=0x7f080041;
+        public static final int abc_font_family_subhead_material=0x7f080042;
+        public static final int abc_font_family_title_material=0x7f080043;
         public static final int abc_search_hint=0x7f08000a;
         public static final int abc_searchview_description_clear=0x7f08000b;
         public static final int abc_searchview_description_query=0x7f08000c;
@@ -2525,16 +2526,18 @@ containing a value of this type.
         public static final int pref_default_server_kasse=0x7f08002b;
         public static final int pref_default_server_url=0x7f08002c;
         public static final int pref_header_general=0x7f08002d;
-        public static final int pref_title_server_cloud=0x7f08002e;
-        public static final int pref_title_server_kasse=0x7f08002f;
-        public static final int pref_title_server_url=0x7f080030;
+        public static final int pref_header_misc=0x7f08002e;
+        public static final int pref_title_server_cloud=0x7f08002f;
+        public static final int pref_title_server_kasse=0x7f080030;
+        public static final int pref_title_server_url=0x7f080031;
+        public static final int reload=0x7f080032;
         public static final int search_menu_title=0x7f080013;
         public static final int status_bar_notification_info_overflow=0x7f080014;
-        public static final int title_activity_settings=0x7f080031;
-        public static final int title_err_code=0x7f080032;
-        public static final int title_err_method=0x7f080033;
-        public static final int title_msg_description=0x7f080034;
-        public static final int title_msg_result=0x7f080035;
+        public static final int title_activity_settings=0x7f080033;
+        public static final int title_err_code=0x7f080034;
+        public static final int title_err_method=0x7f080035;
+        public static final int title_msg_description=0x7f080036;
+        public static final int title_msg_result=0x7f080037;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f0b009f;
@@ -2892,7 +2895,8 @@ containing a value of this type.
     }
     public static final class xml {
         public static final int pref_headers=0x7f060000;
-        public static final int pref_server=0x7f060001;
+        public static final int pref_misc=0x7f060001;
+        public static final int pref_server=0x7f060002;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.

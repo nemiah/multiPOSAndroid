@@ -48,4 +48,6 @@
     <string name="title_err_method">Methode</string>
     <string name="title_msg_description">Beschreibung</string>
     <string name="title_msg_result">Ergebnis</string>
+    <string name="pref_header_misc">Sonstiges</string>
+    <string name="reload">Aktualisieren</string>
 </resources>

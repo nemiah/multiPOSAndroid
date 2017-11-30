@@ -1,4 +1,4 @@
-#Thu Sep 28 21:37:27 CEST 2017
+#Thu Nov 30 15:25:38 CET 2017
 base.0=/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f145d8c5c517908f2b17b0498a146d6cb491f6cc
 renamed.1=classes2.dex
 renamed.0=classes.dex
